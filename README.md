@@ -1,12 +1,9 @@
 # Correlation and regression for data analysis
 # Aim : 
-
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
 
-
 # Software required :  
-
 Python
 
 # Theory:
@@ -58,8 +55,7 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 plt.show()
 ```
-
-# Output 
+# Output:
 ```
 25 28 35 32 31 36 29 38 34 32
 43 46 49 41 36 32 31 30 33 39
